@@ -43,5 +43,5 @@ PIDKiller is built by gamers, for gamers. If you want to help make it better, yo
 
 ## License
 
-[Apache-2.0](LICENSE), free for personal and commercial use. Conditions: keep the
-copyright notice and the license text, and state significant changes.
+[MIT](LICENSE), free for personal and commercial use. The only condition: keep
+the copyright notice and the license text.
