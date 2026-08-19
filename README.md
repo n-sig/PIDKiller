@@ -38,3 +38,10 @@ PIDKiller is built by gamers, for gamers. If you want to help make it better, yo
 
 ---
 *Built with Python, CustomTkinter, and psutil.*
+
+---
+
+## License
+
+[Apache-2.0](LICENSE), free for personal and commercial use. Conditions: keep the
+copyright notice and the license text, and state significant changes.
