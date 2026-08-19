@@ -43,5 +43,9 @@ PIDKiller is built by gamers, for gamers. If you want to help make it better, yo
 
 ## License
 
-[MIT](LICENSE), free for personal and commercial use. The only condition: keep
-the copyright notice and the license text.
+No open-source license. All rights reserved by the author.
+
+**Free to use, including at work.** What is not granted: redistributing,
+repackaging or selling PIDKiller.exe. If you want to do any of that, just ask.
+
+Contributions to `rules.json` are welcome and go into the default ruleset.
